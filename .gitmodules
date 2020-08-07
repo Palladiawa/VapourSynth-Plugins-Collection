@@ -1,0 +1,39 @@
+[submodule "L-SMASH-Works"]
+	path = L-SMASH-Works
+	url = https://github.com/Palladiawa/L-SMASH-Works.git
+[submodule "ffms2"]
+	path = ffms2
+	url = https://github.com/FFMS/ffms2.git
+[submodule "f3kdb"]
+	path = f3kdb
+	url = https://github.com/SAPikachu/flash3kyuu_deband.git
+[submodule "VapourSynth-AddGrain"]
+	path = VapourSynth-AddGrain
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-AddGrain.git
+[submodule "VapourSynth-BM3D"]
+	path = VapourSynth-BM3D
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D.git
+[submodule "vapoursynth-descale"]
+	path = vapoursynth-descale
+	url = https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale.git
+[submodule "VapourSynth-DFTTest"]
+	path = VapourSynth-DFTTest
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DFTTest.git
+[submodule "VapourSynth-EEDI3"]
+	path = VapourSynth-EEDI3
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3.git
+[submodule "VapourSynth-EEDI2"]
+	path = VapourSynth-EEDI2
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2.git
+[submodule "vapoursynth-preview"]
+	path = vapoursynth-preview
+	url = https://github.com/Endilll/vapoursynth-preview.git
+[submodule "vapoursynth-nnedi3"]
+	path = vapoursynth-nnedi3
+	url = https://github.com/dubhater/vapoursynth-nnedi3.git
+[submodule "VapourSynth-TCanny"]
+	path = VapourSynth-TCanny
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny.git
+[submodule "KNLMeansCL"]
+	path = KNLMeansCL
+	url = https://github.com/Khanattila/KNLMeansCL.git
