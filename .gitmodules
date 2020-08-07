@@ -37,3 +37,9 @@
 [submodule "KNLMeansCL"]
 	path = KNLMeansCL
 	url = https://github.com/Khanattila/KNLMeansCL.git
+[submodule "vapoursynth"]
+	path = vapoursynth
+	url = https://github.com/vapoursynth/vapoursynth.git
+[submodule "fmtconv"]
+	path = fmtconv
+	url = https://github.com/EleonoreMizo/fmtconv.git
