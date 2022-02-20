@@ -31,9 +31,6 @@
 [submodule "tools/VapourSynth-Preview"]
 	path = tools/VapourSynth-Preview
 	url = https://github.com/DJATOM/vapoursynth-preview.git
-[submodule "plugins/descale"]
-	path = plugins/descale
-	url = https://github.com/Irrational-Encoding-Wizardry/descale.git
 [submodule "scripts/vapoursynth-adjust"]
 	path = scripts/vapoursynth-adjust
 	url = https://github.com/dubhater/vapoursynth-adjust.git
@@ -61,3 +58,27 @@
 [submodule "scripts/vapoursynth-lvsfunc"]
 	path = scripts/vapoursynth-lvsfunc
 	url = https://github.com/Irrational-Encoding-Wizardry/lvsfunc.git
+[submodule "plugins/VapourSynth-LibP2P"]
+	path = plugins/VapourSynth-LibP2P
+	url = https://github.com/DJATOM/LibP2P-Vapoursynth.git
+[submodule "plugins/VapourSynth-CTMF"]
+	path = plugins/VapourSynth-CTMF
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-CTMF.git
+[submodule "plugins/VapourSynth-TTempSmooth"]
+	path = plugins/VapourSynth-TTempSmooth
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TTempSmooth.git
+[submodule "plugins/VapourSynth-Deblock"]
+	path = plugins/VapourSynth-Deblock
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Deblock.git
+[submodule "plugins/VapourSynth-LGhost"]
+	path = plugins/VapourSynth-LGhost
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-LGhost.git
+[submodule "plugins/VapourSynth-mvtools"]
+	path = plugins/VapourSynth-mvtools
+	url = https://github.com/dubhater/vapoursynth-mvtools.git
+[submodule "plugins/VapourSynth-NNEDI3CL"]
+	path = plugins/VapourSynth-NNEDI3CL
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL.git
+[submodule "plugins/VapourSynth-descale"]
+	path = plugins/VapourSynth-descale
+	url = https://github.com/Irrational-Encoding-Wizardry/descale.git
