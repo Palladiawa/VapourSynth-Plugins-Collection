@@ -1,45 +1,63 @@
-[submodule "L-SMASH-Works"]
-	path = L-SMASH-Works
-	url = https://github.com/Palladiawa/L-SMASH-Works.git
-[submodule "ffms2"]
-	path = ffms2
-	url = https://github.com/FFMS/ffms2.git
-[submodule "f3kdb"]
-	path = f3kdb
+[submodule "plugins/flash3kyuu_deband"]
+	path = plugins/flash3kyuu_deband
 	url = https://github.com/SAPikachu/flash3kyuu_deband.git
-[submodule "VapourSynth-AddGrain"]
-	path = VapourSynth-AddGrain
+[submodule "plugins/VapourSynth-AddGrain"]
+	path = plugins/VapourSynth-AddGrain
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-AddGrain.git
-[submodule "VapourSynth-BM3D"]
-	path = VapourSynth-BM3D
+[submodule "plugins/VapourSynth-BM3D"]
+	path = plugins/VapourSynth-BM3D
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D.git
-[submodule "vapoursynth-descale"]
-	path = vapoursynth-descale
-	url = https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale.git
-[submodule "VapourSynth-DFTTest"]
-	path = VapourSynth-DFTTest
+[submodule "plugins/VapourSynth-DFTTest"]
+	path = plugins/VapourSynth-DFTTest
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DFTTest.git
-[submodule "VapourSynth-EEDI3"]
-	path = VapourSynth-EEDI3
+[submodule "plugins/VapourSynth-EEDI3"]
+	path = plugins/VapourSynth-EEDI3
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3.git
-[submodule "VapourSynth-EEDI2"]
-	path = VapourSynth-EEDI2
+[submodule "plugins/VapourSynth-EEDI2"]
+	path = plugins/VapourSynth-EEDI2
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2.git
-[submodule "vapoursynth-preview"]
-	path = vapoursynth-preview
-	url = https://github.com/Endilll/vapoursynth-preview.git
-[submodule "vapoursynth-nnedi3"]
-	path = vapoursynth-nnedi3
+[submodule "plugins/VapourSynth-NNEDI3"]
+	path = plugins/VapourSynth-NNEDI3
 	url = https://github.com/dubhater/vapoursynth-nnedi3.git
-[submodule "VapourSynth-TCanny"]
-	path = VapourSynth-TCanny
+[submodule "plugins/VapourSynth-TCanny"]
+	path = plugins/VapourSynth-TCanny
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny.git
-[submodule "KNLMeansCL"]
-	path = KNLMeansCL
+[submodule "plugins/KNLMeansCL"]
+	path = plugins/KNLMeansCL
 	url = https://github.com/Khanattila/KNLMeansCL.git
-[submodule "vapoursynth"]
-	path = vapoursynth
-	url = https://github.com/vapoursynth/vapoursynth.git
-[submodule "fmtconv"]
-	path = fmtconv
+[submodule "plugins/fmtconv"]
+	path = plugins/fmtconv
 	url = https://github.com/EleonoreMizo/fmtconv.git
+[submodule "tools/VapourSynth-Preview"]
+	path = tools/VapourSynth-Preview
+	url = https://github.com/DJATOM/vapoursynth-preview.git
+[submodule "plugins/descale"]
+	path = plugins/descale
+	url = https://github.com/Irrational-Encoding-Wizardry/descale.git
+[submodule "scripts/vapoursynth-adjust"]
+	path = scripts/vapoursynth-adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
+[submodule "scripts/vapoursynth-CSMOD"]
+	path = scripts/vapoursynth-CSMOD
+	url = https://github.com/fdar0536/VapourSynth-Contra-Sharpen-mod.git
+[submodule "scripts/vapoursynth-havsfunc"]
+	path = scripts/vapoursynth-havsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/havsfunc.git
+[submodule "scripts/vapoursynth-mvsfunc"]
+	path = scripts/vapoursynth-mvsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/mvsfunc.git
+[submodule "scripts/vapoursynth-kagefunc"]
+	path = scripts/vapoursynth-kagefunc
+	url = https://github.com/Irrational-Encoding-Wizardry/kagefunc.git
+[submodule "scripts/vapoursynth-vardefunc"]
+	path = scripts/vapoursynth-vardefunc
+	url = https://github.com/Ichunjo/vardefunc.git
+[submodule "scripts/vapoursynth-vsTAAmbk"]
+	path = scripts/vapoursynth-vsTAAmbk
+	url = https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk.git
+[submodule "scripts/vapoursynth-nnedi3_resample"]
+	path = scripts/vapoursynth-nnedi3_resample
+	url = https://github.com/HomeOfVapourSynthEvolution/nnedi3_resample.git
+[submodule "scripts/vapoursynth-lvsfunc"]
+	path = scripts/vapoursynth-lvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/lvsfunc.git
