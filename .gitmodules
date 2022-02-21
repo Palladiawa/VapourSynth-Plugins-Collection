@@ -82,3 +82,9 @@
 [submodule "plugins/VapourSynth-descale"]
 	path = plugins/VapourSynth-descale
 	url = https://github.com/Irrational-Encoding-Wizardry/descale.git
+[submodule "scripts/vapoursynth-insaneAA"]
+	path = scripts/vapoursynth-insaneAA
+	url = https://github.com/Beatrice-Raws/VapourSynth-insaneAA.git
+[submodule "scripts/vapoursynth-fvsfunc"]
+	path = scripts/vapoursynth-fvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/fvsfunc.git
